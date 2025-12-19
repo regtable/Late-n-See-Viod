@@ -1,0 +1,38 @@
+{
+  "title": "THE BURNING TENT",
+  "coverUrl": "cover.png",
+  "tracks": [
+    { 
+      "title": "Zone 6 (Intro)", 
+      "duration": "2:50" 
+    },
+    { 
+      "title": "Concrete Sky", 
+      "duration": "3:28"
+          },
+{ 
+      "title": "Pint of Bitter", 
+      "duration": "2:48"
+          },
+{ 
+      "title": "The Burning Tent", 
+      "duration": "2:59"
+          },
+{ 
+      "title": "Doner Kebab 3AM", 
+      "duration": "3:28"
+          },
+{ 
+      "title": "Night Bus Philosophy", 
+      "duration": "3:44"
+          },
+{ 
+      "title": "Sunday Scaries", 
+      "duration": "3:20"
+          },
+{ 
+      "title": "Central Heat Line", 
+      "duration": "2:57"
+          },
+  ]
+}
