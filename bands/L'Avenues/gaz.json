@@ -1,33 +1,36 @@
 {
-  "name": "Xero",
-  "role": "Lead Synthesis",
-  "themeColor": "#00ffcc",
+  
+  "name": "Gaz",
+  "role": "Vibe / Hype",
+  "themeColor": "#FFD400",
+
   "sections": [
     {
       "title": "ORIGIN",
-      "question": "Where did the signal first oscillate?",
-      "answer": "Answer text here...",
-      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_1.jpg"
+      "question": "What is your earliest memory",
+      "answer": "Earliest memory? I’m not gonna pretend I remember the actual crawling like it’s some Oscar speech… but I do remember the vibe: the living room carpet rough as a Brillo pad, telly humming, and the adults talking like I wasn’t there. I was a small lad with big eyes and a head full of noise, dragging myself toward anything shiny — remote controls, biscuit tins, the dangerous edge of the coffee table like it owed me money. First steps weren’t heroic… just me wobbling into the world like a pint trying not to spill.",
+      "imageUrl": "https://github.com/regtable/Late-n-See-Viod/blob/main/assets/images/Gaz_baby.png?raw=true"
     },
     {
-      "title": "GEAR",
-      "question": "Hardware?",
-      "answer": "Answer text here...",
-      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_2.jpg"
+      "title": "YOUNG GAZ",
+      "question": "What was it like growing up?",
+      "answer": "Growing up was proper West Mids real: bus fumes, chip fat, corner shops where the bell rings like judgement. I learned early that life is mainly waiting — waiting for the bus, waiting for wages, waiting for your mate to stop chatting nonsense outside the offy. School was half survival, half comedy. I weren’t the toughest, weren’t the cleverest… but I could make a dead corridor feel like a party with one stupid joke and a crisp packet football. That’s where the “Gaz” thing started — people clocked I could turn nothing into something.",
+      "imageUrl": "https://github.com/regtable/Late-n-See-Viod/blob/main/assets/images/Gaz_meal_deal.png?raw=true"
     },
-    { "title": "PHILOSOPHY", "question": "...", "answer": "..." },
+    { "title": "TRAGEDYS", "question": "Was there ever any tragic moments that could have affected your stylings?", "answer": "Tragedy-wise, keep it real: nothing cinematic, just the slow stuff that shapes you. Redundancies, doors closing, family members getting tired in a way you can’t fix with banter. I watched adults get worn down by bills and silence, and that did something to me — made me swear I’d never let the room go flat if I could help it. That’s where the loudness comes from. Not ego. Defence mechanism. If I’m cracking jokes, I’m basically holding the ceiling up." },
     {
-      "title": "SOUND",
-      "question": "...",
-      "answer": "...",
-      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_3.jpg"
+      "title": "OOPS",
+      "question": "Did you ever have any bad accidents growing up that shaped you?",
+      "answer": "Accidents: I had a stupid one — clipped by my own impatience. I was bombing it on a battered bike like I was in a music video, hit a pothole that looked innocent, and I went flying. Nothing dramatic, but enough to learn your body ain’t a rental. I remember lying there laughing, then realising I was laughing so I wouldn’t cry. That’s the Gaz blueprint: fall over, make it funny, get up, keep moving."
+      
     },
     {
-      "title": "INFLUENCE",
-      "question": "...",
-      "answer": "...",
-      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_4.jpg"
+      "title": "CHIPPY TIME",
+      "question": "What was your first romantic experience?",
+      "answer": "First love was soft, mate. Not a “power ballad” thing — more like a quiet tune under all the noise. I fell for a girl who smelled like shampoo and bus seats (don’t judge, that’s romance round here). We used to share chips and talk about leaving town like it was a sure thing, like we weren’t skint teenagers. She laughed at my daftness but also saw the tired bit underneath. Didn’t last — first loves rarely do — but it taught me that being loud means nothing if you can’t be gentle when it matters.",
+      "imageUrl": "https://github.com/regtable/Late-n-See-Viod/blob/main/assets/images/Gaz_chips.png?raw=true"
     },
-    { "title": "FUTURE", "question": "...", "answer": "..." }
+    { "title": "FUTURE", "question": "How did you form and what were your first gigs like?", "answer": "Music came in like a crowbar. Me, Baz, and Deano weren’t trying to be a “movement” — we were just trying to make the week feel less like a spreadsheet. The early sessions were cables everywhere, cheap speakers, someone always saying “one more take” like we had infinite time. When it clicks, it’s not fame you feel — it’s relief. Like you found a door in a wall you thought was solid. And that “three step patè” thing you mentioned? Sounds like SoundCloud lads seasoning the stew with chaos — fair play to ‘em, but we’re more grit and gravy than bouncy meat science.",
+"imageUrl": "https://github.com/regtable/Late-n-See-Viod/blob/main/assets/images/Gaz_band.png?raw=true" }
   ]
 }
