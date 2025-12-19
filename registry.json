@@ -6,6 +6,8 @@
       "name": "L'AVENUES",
       "slug": "l'avenues",
       "genre": "UKG",
+"featured": true,
+  "teaser": "BREANKING OUT: New band emerges from Solihull estates",
       "members": [
         { "name": "Gaz", "id": "gaz" },
     	{ "name": "Deano", "id": "deano" },
