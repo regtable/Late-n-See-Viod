@@ -7,6 +7,7 @@
       "slug": "l'avenues",
       "genre": "UKG",
 "featured": true,
+"featuredImageUrl": "https://github.com/regtable/Late-n-See-Viod/blob/main/assets/images/Lavenus_origins.png?raw=true",
   "teaser": "BREANKING OUT: New band emerges from Solihull estates",
       "members": [
         { "name": "Gaz", "id": "gaz" },
