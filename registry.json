@@ -10,69 +10,6 @@
         { "name": "Xero", "id": "xero" },
         { "name": "Buffer", "id": "buffer" }
       ]
-    },
-    {
-      "name": "SYNTH_GHOST",
-      "slug": "synth-ghost",
-      "genre": "Ambient Void",
-      "members": [
-        { "name": "Phantm", "id": "phantm" },
-        { "name": "Echo", "id": "echo" }
-      ]
-    },
-    {
-      "name": "DATA_DRIP",
-      "slug": "data-drip",
-      "genre": "Cyber-Funk",
-      "members": [
-        { "name": "Leak", "id": "leak" },
-        { "name": "Spill", "id": "spill" }
-      ]
-    },
-    {
-      "name": "SIGNAL_LOSS",
-      "slug": "signal-loss",
-      "genre": "Lo-Fi Industrial",
-      "members": [
-        { "name": "Static", "id": "static" },
-        { "name": "Fuzz", "id": "fuzz" }
-      ]
-    },
-    {
-      "name": "LOGIC_BOMB",
-      "slug": "logic-bomb",
-      "genre": "Aggro-Tech",
-      "members": [
-        { "name": "Trigger", "id": "trigger" },
-        { "name": "Boom", "id": "boom" }
-      ]
-    },
-    {
-      "name": "NEON_WASTE",
-      "slug": "neon-waste",
-      "genre": "Hyper-Pop",
-      "members": [
-        { "name": "Glow", "id": "glow" },
-        { "name": "Trash", "id": "trash" }
-      ]
-    },
-    {
-      "name": "GHOST_CODE",
-      "slug": "ghost-code",
-      "genre": "Binary Folk",
-      "members": [
-        { "name": "Zero", "id": "zero" },
-        { "name": "One", "id": "one" }
-      ]
-    },
-    {
-      "name": "BUFFER_OVER",
-      "slug": "buffer-over",
-      "genre": "Hard-Style",
-      "members": [
-        { "name": "Stack", "id": "stack" },
-        { "name": "Heap", "id": "heap" }
-      ]
     }
   ]
 }
