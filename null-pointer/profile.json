@@ -1,0 +1,13 @@
+{
+  "name": "NULL_POINTER",
+  "bio": "NULL_POINTER is more than a band; it's a structural failure in the sonic fabric of the network. Formed during a power outage in the Neo-Akihabara districts, they blend industrial static with high-fidelity AI synthesis.",
+  "established": "2024",
+  "releases": 3,
+  "status": "STABLE",
+  "featuredImageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/null_pointer_featured.jpg",
+  "stats": {
+    "packets_sent": "1.2TB",
+    "encryption": "AES-VOID",
+    "vibe_check": "STABLE"
+  }
+}
