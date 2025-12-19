@@ -3,12 +3,13 @@
   "version": "1.0.4",
   "bands": [
     {
-      "name": "NULL_POINTER",
-      "slug": "null-pointer",
-      "genre": "Glitch-Core",
+      "name": "L'AVENUES",
+      "slug": "l'avenues",
+      "genre": "UKG",
       "members": [
-        { "name": "Xero", "id": "xero" },
-        { "name": "Buffer", "id": "buffer" }
+        { "name": "Gaz", "id": "gaz" },
+    	{ "name": "Deano", "id": "deano" },
+        { "name": "Baz", "id": "baz" }
       ]
     }
   ]
