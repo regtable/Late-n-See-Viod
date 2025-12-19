@@ -1,0 +1,33 @@
+{
+  "name": "Xero",
+  "role": "Lead Synthesis",
+  "themeColor": "#00ffcc",
+  "sections": [
+    {
+      "title": "ORIGIN",
+      "question": "Where did the signal first oscillate?",
+      "answer": "Answer text here...",
+      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_1.jpg"
+    },
+    {
+      "title": "GEAR",
+      "question": "Hardware?",
+      "answer": "Answer text here...",
+      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_2.jpg"
+    },
+    { "title": "PHILOSOPHY", "question": "...", "answer": "..." },
+    {
+      "title": "SOUND",
+      "question": "...",
+      "answer": "...",
+      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_3.jpg"
+    },
+    {
+      "title": "INFLUENCE",
+      "question": "...",
+      "answer": "...",
+      "imageUrl": "https://raw.githubusercontent.com/user/repo/main/assets/images/xero_4.jpg"
+    },
+    { "title": "FUTURE", "question": "...", "answer": "..." }
+  ]
+}
