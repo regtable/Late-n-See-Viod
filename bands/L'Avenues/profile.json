@@ -6,7 +6,7 @@
   "status": "STABLE",
   "featuredImageUrl": "https://github.com/regtable/Late-n-See-Viod/blob/9ba0bc144ea9d0b3c5edd29eb7909829413c5e3d/assets/images/Lavenus_origins.png",
   "stats": {
-    "packets_sent": "1.2TB",
+    "packets_sent": "1.0TB",
     "encryption": "AES-VOID",
     "vibe_check": "STABLE"
   }
