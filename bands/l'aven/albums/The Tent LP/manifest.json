@@ -1,0 +1,47 @@
+{
+  "title": "The Burnin",
+  "coverUrl": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/image/74aebed8-f9f0-4589-ab52-ebf8e7f5a6e8.jpg",
+  "price": 15.00,
+  "tracks": [
+    {
+      "title": "Zon (Intro)",
+      "duration": "2:50",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/74aebed8-f9f0-4589-ab52-ebf8e7f5a6e8.m4a"
+    },
+    {
+      "title": "Conte Sky",
+      "duration": "3:28",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/f760c90c-da14-46bd-a1f4-873728e858a7.m4a"
+    },
+    {
+      "title": "PinBitter",
+      "duration": "2:48",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/a47b83a3-0e2a-44e8-a790-8d6e118321f3.m4a"
+    },
+    {
+      "title": "The Burnent",
+      "duration": "2:59",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/271a9cc5-dc59-4118-8fcb-712d7f43f752.m4a"
+    },
+    {
+      "title": "Doner 3AM",
+      "duration": "3:28",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/53f1c1da-54d8-4661-82c5-b4a4402d3ed1.m4a"
+    },
+    {
+      "title": "Night Busphy",
+      "duration": "3:44",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/b93bf25c-df8b-4bd3-9cd4-041749643b05.m4a"
+    },
+    {
+      "title": "Sunries",
+      "duration": "3:20",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/3e4a17a7-9463-471d-b38c-b3ed61b4b7a1.m4a"
+    },
+    {
+      "title": "CentrHeat",
+      "duration": "2:57",
+      "url": "https://storage.googleapis.com/corpusant-app-public/riffs/e8482875-5cee-4866-a0fd-2337823d0110/audio/6e83051c-12ad-437a-b24c-7a361b873e3a.m4a"
+    }
+  ]
+}
